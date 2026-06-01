@@ -11,6 +11,7 @@
 
 - Do not create excessively large, laggy, or server-breaking builds.
 - Staff may remove structures that negatively affect performance.
+- No sharing exploits
 
 ### §14 — No Prop Abuse
 
