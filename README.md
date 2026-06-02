@@ -1,3 +1,5 @@
+Help video #1 https://youtu.be/24r-KpE0mvE
+
 # About dupes
 - We will put the dupes what we picked and rated.
 - Let us know if you need help to know how these dupes work.
